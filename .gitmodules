@@ -1,0 +1,6 @@
+[submodule "vid2sfm"]
+	path = vid2sfm
+	url = https://github.com/Silvaan09/vid2sfm.git
+[submodule "sfm2splat"]
+	path = sfm2splat
+	url = https://github.com/Silvaan09/sfm2splat.git

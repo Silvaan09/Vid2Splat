@@ -1,0 +1,9 @@
+# Shared datasets and locally installed tools stay out of git.
+/data/
+/tools/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
